@@ -1,4 +1,4 @@
-![logo](jmendez.png){: width="222px"}
+<img src="jmendez.png" alt="jmendez" width="222"/>
 
 <strong>Hello, I’m Jessica! 🧚🏻‍♀️👋🏼 </strong>
 
