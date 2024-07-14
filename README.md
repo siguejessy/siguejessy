@@ -1,8 +1,13 @@
 <strong>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=45 align="left" src="./jmendez.png" />
-</a>
-<h1>Buenas! 👋🏼 </h1>
+  <img height=50 align="left" src="./jmendez.png" />
+</a> 
+
+<h1>Buenas! 👋🏼 
+
+</br>
+</h1>
+
 </strong>
 
 </br>
@@ -11,9 +16,6 @@
 I'm Jessica, a full-stack web developer & product operations wiz based in Long Island, NY. 👩🏼‍💻🌐 
 
 </br >
-</br >
-</br >
-
 
  <h3>🔗 Connect with me</h3>
 
