@@ -1,13 +1,48 @@
-![logo](jmendez.png){: width="222px"}
+<strong>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=45 align="left" src="./jmendez.png" />
+</a>
+<h1>Buenas! 👋🏼 </h1>
+</strong>
 
-<strong>Hello, I’m Jessica! 🧚🏻‍♀️👋🏼 </strong>
+</br>
+<img align="right" width="160" height="100" src="https://raw.githubusercontent.com/siguejessy/the-pintern/main/src/assets/memoji-connect-coffee.png">
 
-After years of dabbling with CSS & HTML as a hobbyist, I've officially made a full-time leap into the world of web dev 👩🏼‍💻🌐
+I'm Jessica, a full-stack web developer & product operations wiz based in Long Island, NY. 👩🏼‍💻🌐 
 
-As a former Ops wiz with expansive experience in product operations & technical support-based roles, I've professionally evolved from within rapid and broad-scaling SaaS startup companies during their culture & strategy-defining moments.
+</br >
+</br >
+</br >
 
-My rooted passions for empathic design, innovation, learning, and leveraging minimalistic tooling to make a monumental impact are key drivers in my day-to-day & web dev life. Also, the limitlessness of building with code... 🤩💡⚡️
 
-I'm a lifelong committed learner eager to reach fluency in some of the coolest universal languages! 😍👩🏼‍💻 I'm super excited to become a contributing member & grow within this community.💗
+ <h3>🔗 Connect with me</h3>
 
-🌱
+<p>
+
+💻 [/linkedIn](https://www.linkedin.com/in/jessicamendez328/) |
+🐙 [/github](https://github.com/siguejessy) |
+🧗🏻‍♀️[/CodeSandbox](https://codesandbox.io/u/siguejessy) |
+🤳🏼[/instagram](https://www.instagram.com/volcanjessy/)
+</p>
+
+<hr>
+
+
+<h3> ⏱️ Currently, I'm...</h3>
+
+🔍 actively seeking my next professional role
+
+🌱 brushing up on my skills using Figma, Notion, JavaScript, and MongoDB
+
+⌨️ coding a MERN e-commerce site using React & Tailwind CSS
+
+📚 reading articles on [Medium](https://medium.com/) & [DEV.to](https://dev.to/)
+
+🚴🏼‍♀️🏋🏼‍♀️ staying in the best shape of my life
+
+</br>
+
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=170 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siguejessy&layout=compact&langs_count=8&card_width=200" />
+</a>
