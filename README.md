@@ -43,8 +43,3 @@ I'm Jessica, a full-stack web developer & product operations wiz based in Long I
 🚴🏼‍♀️🏋🏼‍♀️ staying in the best shape of my life
 
 </br>
-
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siguejessy&layout=compact&langs_count=8&card_width=200" />
-</a>
