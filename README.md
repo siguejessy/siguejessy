@@ -1,30 +1,20 @@
-<strong>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=50 align="left" src="./jmendez.png" />
-</a> 
-
-<h1>Buenas! 👋🏼 
-
-</br>
-</h1>
-
-</strong>
-
+Hello! 👋🏼
 </br>
 <img align="right" width="160" height="100" src="https://raw.githubusercontent.com/siguejessy/the-pintern/main/src/assets/memoji-connect-coffee.png">
-
-I'm Jessica, a full-stack web developer & product operations wiz based in Long Island, NY. 👩🏼‍💻🌐 
-
+</br>
+</a> 
+I'm Jessica, a full-stack web developer & product operations wiz based in Long Island, NY. 🌐 
 </br >
 
- <h3>🔗 Connect with me</h3>
+<h3>🔗 Connect with me</h3>
+<img align="right" height=72 align="left" src="./jmendez.png" />
 
 <p>
-
-💻 [/linkedIn](https://www.linkedin.com/in/jessicamendez328/) |
+  
+💻 [/linkedIn](https://www.linkedin.com/in/siguejessy/) |
 🐙 [/github](https://github.com/siguejessy) |
 🧗🏻‍♀️[/CodeSandbox](https://codesandbox.io/u/siguejessy) |
-🤳🏼[/instagram](https://www.instagram.com/volcanjessy/)
+
 </p>
 
 <hr>
